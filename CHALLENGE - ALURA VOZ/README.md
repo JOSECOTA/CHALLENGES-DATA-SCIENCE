@@ -14,3 +14,4 @@ Após o tratamento dos dados, foi realizada uma análise exploratória das vari�
 
 <h2> ETAPA II </h2>
 
+A segunda etapa consistiu no ajuste da base de dados para possibilitar criar modelos de predição, e na construção de três diferentes modelos de machine learning (Random Forest, SVC e Logistic Regression). O modelo Random Forest apresentou maior desempenho, porém é importante ressaltar que a base de dados não possuia muitos dados, logo isso dificulta o treinamento do modelo e portanto sua eficácia.
