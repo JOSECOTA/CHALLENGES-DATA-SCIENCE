@@ -9,7 +9,7 @@ Esse repositório é destinado à resolução de Desafios de Ciência de Dados. 
       - Desafio proposto pela plataforma de ensino Alura em setembro de 2022.
       - O objetivo do desafio foi propor uma solução para diminuir as perdas financeiras devido a inadimplência.
       - Nesse desafio foi feito tratamento da base de dados, análise exploratória das variáveis e modelos de predição, API e dashboard.
-      - <a> https://github.com/JOSECOTA/CHALLENGES-DATA-SCIENCE/tree/main/CHALLENGE%20-%20ALURA%20CASH </a>
+      - [ALURA CASH](https://github.com/JOSECOTA/CHALLENGES-DATA-SCIENCE/tree/main/CHALLENGE%20-%20ALURA%20CASH)
   
   - <b> ALURA VOZ: </b>
   
