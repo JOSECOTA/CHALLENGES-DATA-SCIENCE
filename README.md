@@ -16,6 +16,7 @@ Esse repositório é destinado à resolução de Desafios de Ciência de Dados. 
       - Desafio proposto pela plataforma de ensino Alura em maio de 2022.
       - O objetivo do desafio foi propor uma solução para reduzir a taxa de evasão da empresa.
       - Nesse desafio foi feito tratamento da base de dados, análise exploratória das variáveis e modelos de predição.
+      - [ALURA VOZ](https://github.com/JOSECOTA/CHALLENGES-DATA-SCIENCE/tree/main/CHALLENGE%20-%20ALURA%20VOZ)
   
   
   
